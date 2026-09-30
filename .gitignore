@@ -1,6 +1,8 @@
 # === 3DS Compiled & Build Artifacts ===
 *.3ds
 *.app
+*.tmd
+*.cmd
 *.cia
 *.cxi
 *.cfa
