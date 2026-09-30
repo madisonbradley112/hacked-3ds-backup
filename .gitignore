@@ -1,0 +1,36 @@
+# === 3DS Compiled & Build Artifacts ===
+*.3ds
+*.cia
+*.cxi
+*.cfa
+*.elf
+*.axf
+*.smdh
+*.3dsx
+
+# === Build Directories ===
+/build/
+/output/
+/bin/
+/obj/
+
+# === DevkitPro / libctru Specifics ===
+*.d
+*.o
+
+# === Emulator Artifacts (Citra, etc.) ===
+/sdmc/
+/nand/
+/dump/
+/load/
+*.log
+citra-qt.ini
+
+# === OS & System Files ===
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+.vscode/
+.idea/
+

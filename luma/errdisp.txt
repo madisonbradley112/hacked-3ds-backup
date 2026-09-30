@@ -1,0 +1,17 @@
+Error type:       generic
+
+Process ID:       60
+Process name:     Game
+Process title ID: 0x000400000017c100
+
+Address:          0x00211b3c
+Error code:       0xe0e046bc
+
+-------------------------------------
+
+Error type:       card removed
+
+The card was removed.
+
+-------------------------------------
+
