@@ -10,6 +10,8 @@
 *.axf
 *.smdh
 *.3dsx
+*.nds
+*.gba
 
 # === Build Directories ===
 /build/
